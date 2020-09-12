@@ -14,10 +14,10 @@ export default function Home() {
           Hi, we're the boys of Sheffield
         </p>
         <div className="inlineBlock" >
-          <a href="https://www.instagram.com/alex__saddler/" target="_blank" >
+          <a href="https://www.instagram.com/alex__saddler/" target="_blank" rel="noopener noreferrer">
             <img src={alex} alt="flex boy" className="roomiePic" />
           </a>
-          <a href="https://www.instagram.com/efizzysnaps/" target="_blank" >
+          <a href="https://www.instagram.com/efizzysnaps/" target="_blank" rel="noopener noreferrer">
             <img src={elliot} alt="clean boy" className="roomiePic" />
           </a>
           <Link to="/taken">
