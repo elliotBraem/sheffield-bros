@@ -12,7 +12,7 @@ export default function Home() {
       <header className="App-header">
         <p>
           Hi, we're the boys of Sheffield
-                </p>
+        </p>
         <div className="inlineBlock" >
           <a href="https://www.instagram.com/alex__saddler/" target="_blank" >
             <img src={alex} alt="flex boy" className="roomiePic" />
@@ -24,7 +24,7 @@ export default function Home() {
             <img src={bobby} alt="study kid" className="roomiePic" />
           </Link>
         </div>
-        <h1>Want sex...?</h1>
+        <h1>Tune in for more later!</h1>
       </header>
     </div>
   );
