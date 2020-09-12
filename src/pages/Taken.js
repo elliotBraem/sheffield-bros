@@ -1,19 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
 import '../App.css';
 
-class Taken extends Component {
-  render() {
-    return (
-      <div >
-        <header className="App-header">
-          <p>
-            Sorry
+export default function Token() {
+  return (
+    <div >
+      <header className="App-header">
+        <p>
+          Sorry...
         </p>
-          <h1>I'm Taken.</h1>
-        </header>
-      </div>
-    );
-  }
+        <h1>I'm Taken.</h1>
+      </header>
+    </div>
+  );
 }
-
-export default Taken;
