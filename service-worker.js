@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sheffield-bros/precache-manifest.de2fb177c27c6d629268fd6e7e2d1ecd.js"
+  "/sheffield-bros/precache-manifest.157f186cb08a58a574203ea7f6b371dc.js"
 );
 
 self.addEventListener('message', (event) => {
