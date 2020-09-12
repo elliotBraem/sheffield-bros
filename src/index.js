@@ -1,12 +1,31 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
 import './index.css';
-import App from './App';
+import Home from './pages/Home';
+import Taken from './pages/Taken';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <div>
+        {/* A <Switch> looks through its children <Route>s and
+          renders the first one that matches the current URL. */}
+        <Switch>
+          <Route path="/">
+            <Home />
+          </Route>
+          <Route path="/taken">
+            <Taken />
+          </Route>
+        </Switch>
+      </div>
+    </Router >
   </React.StrictMode>,
   document.getElementById('root')
 );

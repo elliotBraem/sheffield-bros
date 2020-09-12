@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.hp1 {
+  padding: 1rem 0;
+}
+
+.roomiePic {
+  margin: 0 1rem;
+  max-width: 200px;
+}
