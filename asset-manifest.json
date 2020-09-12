@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sheffield-bros/static/css/main.dfb0a673.chunk.css",
+    "main.js": "/sheffield-bros/static/js/main.5539452c.chunk.js",
+    "main.js.map": "/sheffield-bros/static/js/main.5539452c.chunk.js.map",
+    "runtime-main.js": "/sheffield-bros/static/js/runtime-main.74454282.js",
+    "runtime-main.js.map": "/sheffield-bros/static/js/runtime-main.74454282.js.map",
+    "static/js/2.6d68a20d.chunk.js": "/sheffield-bros/static/js/2.6d68a20d.chunk.js",
+    "static/js/2.6d68a20d.chunk.js.map": "/sheffield-bros/static/js/2.6d68a20d.chunk.js.map",
+    "index.html": "/sheffield-bros/index.html",
+    "precache-manifest.8ed83c41b662cb9e1191a26961888768.js": "/sheffield-bros/precache-manifest.8ed83c41b662cb9e1191a26961888768.js",
+    "service-worker.js": "/sheffield-bros/service-worker.js",
+    "static/css/main.dfb0a673.chunk.css.map": "/sheffield-bros/static/css/main.dfb0a673.chunk.css.map",
+    "static/js/2.6d68a20d.chunk.js.LICENSE.txt": "/sheffield-bros/static/js/2.6d68a20d.chunk.js.LICENSE.txt",
+    "static/media/alex.jpg": "/sheffield-bros/static/media/alex.3061b175.jpg",
+    "static/media/bobby.jpg": "/sheffield-bros/static/media/bobby.4a7cc5dc.jpg",
+    "static/media/elliot.jpg": "/sheffield-bros/static/media/elliot.1aac2edd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74454282.js",
+    "static/js/2.6d68a20d.chunk.js",
+    "static/css/main.dfb0a673.chunk.css",
+    "static/js/main.5539452c.chunk.js"
+  ]
+}
