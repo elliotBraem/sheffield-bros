@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sheffield-bros/static/css/main.dfb0a673.chunk.css",
-    "main.js": "/sheffield-bros/static/js/main.5539452c.chunk.js",
-    "main.js.map": "/sheffield-bros/static/js/main.5539452c.chunk.js.map",
+    "main.js": "/sheffield-bros/static/js/main.3c6543bf.chunk.js",
+    "main.js.map": "/sheffield-bros/static/js/main.3c6543bf.chunk.js.map",
     "runtime-main.js": "/sheffield-bros/static/js/runtime-main.74454282.js",
     "runtime-main.js.map": "/sheffield-bros/static/js/runtime-main.74454282.js.map",
     "static/js/2.6d68a20d.chunk.js": "/sheffield-bros/static/js/2.6d68a20d.chunk.js",
     "static/js/2.6d68a20d.chunk.js.map": "/sheffield-bros/static/js/2.6d68a20d.chunk.js.map",
     "index.html": "/sheffield-bros/index.html",
-    "precache-manifest.8ed83c41b662cb9e1191a26961888768.js": "/sheffield-bros/precache-manifest.8ed83c41b662cb9e1191a26961888768.js",
+    "precache-manifest.de2fb177c27c6d629268fd6e7e2d1ecd.js": "/sheffield-bros/precache-manifest.de2fb177c27c6d629268fd6e7e2d1ecd.js",
     "service-worker.js": "/sheffield-bros/service-worker.js",
     "static/css/main.dfb0a673.chunk.css.map": "/sheffield-bros/static/css/main.dfb0a673.chunk.css.map",
     "static/js/2.6d68a20d.chunk.js.LICENSE.txt": "/sheffield-bros/static/js/2.6d68a20d.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.74454282.js",
     "static/js/2.6d68a20d.chunk.js",
     "static/css/main.dfb0a673.chunk.css",
-    "static/js/main.5539452c.chunk.js"
+    "static/js/main.3c6543bf.chunk.js"
   ]
 }
